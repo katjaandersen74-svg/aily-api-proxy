@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aily-api-proxy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cd4f10f3-42b3-4bc9-9c40-efc5ab81632e",
+			"database_name": "aily-api-proxy"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
